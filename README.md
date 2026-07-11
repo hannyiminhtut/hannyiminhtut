@@ -14,9 +14,7 @@
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-hannyiminhtut-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hannyiminhtut)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Han%20Nyi%20Min%20Htut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/han-nyi-min-htut-708277306/)
+
 
 
 </div>
