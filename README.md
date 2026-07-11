@@ -42,7 +42,6 @@ currently_learning:
   - MLOps & Model Deployment
   - Docker & Kubernetes
 
-motto: "Learn continuously, build consistently, and use AI to solve real-world problems."
 ```
 
 <br/>
@@ -225,7 +224,7 @@ A full-featured job portal connecting employers and job seekers with profile man
 
 <br/><br/>
 
-### 💬 *"Learn continuously, build consistently, and use AI to solve real-world problems."*
+### 💬 *"Learn continuously, build consistently."*
 
 <br/>
 
