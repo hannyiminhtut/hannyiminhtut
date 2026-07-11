@@ -207,7 +207,7 @@ A job portal connecting employers and job seekers.
 ## 📫 Connect with Me
 
 * GitHub: https://github.com/hannyiminhtut
-* LinkedIn: *(Add your LinkedIn URL here)*
+* LinkedIn: https://www.linkedin.com/in/han-nyi-min-htut-708277306/
 
 ---
 
