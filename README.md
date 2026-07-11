@@ -186,28 +186,6 @@ A job portal connecting employers and job seekers.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hannyiminhtut&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannyiminhtut&layout=compact&theme=tokyonight&cache_seconds=1800"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=hannyiminhtut&theme=tokyonight"
-  />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 * GitHub: https://github.com/hannyiminhtut
