@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Knowledge%20Engineer%20%7C%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=220&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Knowledge%20Engineer%20|%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=220&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Knowledge%20Engineer%20|%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=220&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Knowledge%20Engineer%20|%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" alt="header" width="100%" />
+</picture>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -252,6 +256,6 @@ A full-featured job portal connecting employers and job seekers with profile man
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer" width="100%" />
 
 </div>
