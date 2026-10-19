@@ -9,7 +9,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=4th+Year+Knowledge+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;Backend+Engineering+with+Spring+Boot;Building+Intelligent+Systems+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1500&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=760&amp;height=55&amp;lines=Final+Year+Knowledge+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Software+Development;Currently+Learning+Cloud+Computing" alt="Final Year Knowledge Engineering Student; AI and Machine Learning Enthusiast; Software Development; Currently Learning Cloud Computing" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 name: Han Nyi Min Htut
 location: Yangon, Myanmar 🇲🇲
 education: B.C.Sc. in Knowledge Engineering — University of Information Technology (UIT)
-year: 4th Year
+year: Final Year
 
 fields_of_interest:
   - Artificial Intelligence & Machine Learning
@@ -231,5 +231,6 @@ A full-featured job portal connecting employers and job seekers with profile man
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer" width="100%" />
 
 </div>
+
 
 
