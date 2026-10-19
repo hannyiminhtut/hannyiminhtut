@@ -1,8 +1,35 @@
 <div align="center">
 
-<h1>Han Nyi Min Htut</h1>
-<p><strong>Final Year Knowledge Engineering Student</strong></p>
-<p>University of Information Technology (UIT) · Yangon, Myanmar</p>
+<p>
+  <img src="https://img.shields.io/badge/KNOWLEDGE_ENGINEERING-0F172A?style=for-the-badge&logo=knowledgebase&logoColor=2DD4BF" alt="Knowledge Engineering" />
+</p>
+
+<h1>👨‍💻 Han Nyi Min Htut</h1>
+
+<h3>🎓 Final Year Knowledge Engineering Student</h3>
+
+<p>
+  <strong>Turning data and ideas into intelligent applications.</strong>
+</p>
+
+<p>
+  🏛️ University of Information Technology (UIT)<br />
+  📍 Yangon, Myanmar
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-134E4A?style=flat-square&logo=pytorch&logoColor=5EEAD4" alt="Artificial Intelligence" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Computer_Vision-164E63?style=flat-square&logo=opencv&logoColor=67E8F9" alt="Computer Vision" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Backend_Development-1E3A5F?style=flat-square&logo=springboot&logoColor=93C5FD" alt="Backend Development" />
+</p>
+
+<p>
+  <a href="https://github.com/hannyiminhtut"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work on GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/han-nyi-min-htut-708277306/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+</p>
 
 </div>
 
@@ -218,6 +245,7 @@ A full-featured job portal connecting employers and job seekers with profile man
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer" width="100%" />
 
 </div>
+
 
 
 
