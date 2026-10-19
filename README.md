@@ -1,5 +1,11 @@
-﻿<p align="center">
-  <img src="assets/profile-header.svg" alt="Han Nyi Min Htut — Knowledge Engineering, AI and Software" width="100%" />
+﻿<h1 align="center">Han Nyi Min Htut</h1>
+
+<p align="center">
+  <strong>Knowledge Engineering · AI · Software Development</strong>
+</p>
+
+<p align="center">
+  Building intelligent systems. Solving practical problems.
 </p>
 
 <p align="center">
@@ -96,3 +102,4 @@ Large language models, agentic AI, retrieval-augmented generation (RAG), and kno
 Find me on [LinkedIn](https://www.linkedin.com/in/han-nyi-min-htut-708277306/) or explore my work on [GitHub](https://github.com/hannyiminhtut).
 
 <sub>Learn continuously. Build consistently.</sub>
+
