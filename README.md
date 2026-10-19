@@ -1,35 +1,21 @@
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/KNOWLEDGE_ENGINEERING-0F172A?style=for-the-badge&logo=knowledgebase&logoColor=2DD4BF" alt="Knowledge Engineering" />
-</p>
+<!-- HEADER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=220&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Knowledge%20Engineer%20|%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=220&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Knowledge%20Engineer%20|%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=220&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Knowledge%20Engineer%20|%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" alt="header" width="100%" />
+</picture>
 
-<h1>👨‍💻 Han Nyi Min Htut</h1>
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=4th+Year+Knowledge+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;Backend+Engineering+with+Spring+Boot;Building+Intelligent+Systems+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
 
-<h3>🎓 Final Year Knowledge Engineering Student</h3>
+<br/>
 
-<p>
-  <strong>Turning data and ideas into intelligent applications.</strong>
-</p>
 
-<p>
-  🏛️ University of Information Technology (UIT)<br />
-  📍 Yangon, Myanmar
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-134E4A?style=flat-square&logo=pytorch&logoColor=5EEAD4" alt="Artificial Intelligence" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Computer_Vision-164E63?style=flat-square&logo=opencv&logoColor=67E8F9" alt="Computer Vision" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Backend_Development-1E3A5F?style=flat-square&logo=springboot&logoColor=93C5FD" alt="Backend Development" />
-</p>
-
-<p>
-  <a href="https://github.com/hannyiminhtut"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work on GitHub" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/han-nyi-min-htut-708277306/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-</p>
 
 </div>
 
@@ -40,7 +26,7 @@
 name: Han Nyi Min Htut
 location: Yangon, Myanmar 🇲🇲
 education: B.C.Sc. in Knowledge Engineering — University of Information Technology (UIT)
-year: Final Year
+year: 4th Year
 
 fields_of_interest:
   - Artificial Intelligence & Machine Learning
@@ -245,8 +231,5 @@ A full-featured job portal connecting employers and job seekers with profile man
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer" width="100%" />
 
 </div>
-
-
-
 
 
