@@ -2,19 +2,19 @@
 
 <!-- HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:1f6feb&height=240&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Knowledge%20Engineer%20%7C%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=64&descColor=58a6ff&animation=fadeIn&stroke=58a6ff&strokeWidth=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e293b,100:2563eb&height=240&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Knowledge%20Engineer%20%7C%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=64&descColor=93c5fd&animation=fadeIn&stroke=93c5fd&strokeWidth=1" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:1f6feb&height=240&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Knowledge%20Engineer%20%7C%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=64&descColor=58a6ff&animation=fadeIn&stroke=58a6ff&strokeWidth=1" alt="header" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=220&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Knowledge%20Engineer%20|%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=220&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Knowledge%20Engineer%20|%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=220&section=header&text=Han%20Nyi%20Min%20Htut&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Knowledge%20Engineer%20|%20AI%20%26%20Software%20Engineer&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" alt="header" width="100%" />
 </picture>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=780&amp;height=50&amp;lines=Final+Year+Knowledge+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Software+Development;Currently+Learning+Cloud+Computing" alt="Final Year Knowledge Engineering Student; AI and Machine Learning Enthusiast; Software Development; Currently Learning Cloud Computing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1500&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=760&amp;height=55&amp;lines=Final+Year+Knowledge+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Software+Development;Currently+Learning+Cloud+Computing" alt="Final Year Knowledge Engineering Student; AI and Machine Learning Enthusiast; Software Development; Currently Learning Cloud Computing" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2" width="100%" />
 
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
@@ -40,7 +40,7 @@ currently_learning:
   - Docker & Kubernetes
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2" width="100%" />
 
 <!-- TECH STACK -->
 ## 🛠️ &nbsp;Tech Stack
@@ -116,7 +116,7 @@ currently_learning:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2" width="100%" />
 
 <!-- ACHIEVEMENTS -->
 ## 🏆 &nbsp;Achievements
@@ -126,14 +126,14 @@ currently_learning:
 <table>
   <tr>
     <td align="center" width="100%">
-      <img src="https://img.shields.io/badge/%F0%9F%A5%89_3rd_Place-KBZPay_Mini_App_Hackathon-FFD700?style=for-the-badge&labelColor=0d1117" alt="3rd Place - KBZPay Mini App Hackathon" />
+      <img src="https://img.shields.io/badge/%F0%9F%A5%89_3rd_Place-KBZPay_Mini_App_Hackathon-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="3rd Place - KBZPay Mini App Hackathon" />
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2" width="100%" />
 
 <!-- CURRENTLY LEARNING -->
 ## 🌱 &nbsp;Currently Learning
@@ -158,7 +158,7 @@ currently_learning:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2" width="100%" />
 
 <!-- CONNECT -->
 ## 🤝 &nbsp;Let's Connect
@@ -183,10 +183,6 @@ currently_learning:
   </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=120&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" alt="footer" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
