@@ -97,76 +97,6 @@ currently_learning:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
 
-<!-- FEATURED PROJECTS -->
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎙 Speech Emotion Recognition
-Deep learning system that predicts human emotions from voice recordings using spectral analysis and neural networks.
-
-`Python` `PyTorch` `TensorFlow` `Librosa` `Flask`
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 UniVoice
-University feedback & issue reporting platform with anonymous reporting, department management, and admin dashboards.
-
-`Spring Boot` `Java` `MySQL` `JSP` `Bootstrap`
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👤 Face Recognition Attendance
-AI-powered attendance system using computer vision for automatic student recognition with real-time detection.
-
-`Python` `OpenCV` `Haar Cascade` `Face Recognition`
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽 Smart Restaurant Management
-Desktop application for restaurant operations including order, billing, table, and user management.
-
-`JavaFX` `Java` `MariaDB`
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2" align="center" valign="top">
-
-### 💼 Job Portal System
-A full-featured job portal connecting employers and job seekers with profile management, job postings, and search.
-
-`PHP` `MySQL` `Bootstrap`
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
-
 <!-- ACHIEVEMENTS -->
 ## 🏆 &nbsp;Achievements
 
@@ -231,6 +161,7 @@ A full-featured job portal connecting employers and job seekers with profile man
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer" width="100%" />
 
 </div>
+
 
 
 
