@@ -104,11 +104,8 @@ currently_learning:
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
 <img src="https://img.shields.io/badge/%F0%9F%A5%89_3rd_Place-KBZPay_Mini_App_Hackathon-FFD700?style=for-the-badge&labelColor=1a1a2e" />
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/%F0%9F%8F%85_Top_20_Finalist-MCSC_2024-C0C0C0?style=for-the-badge&labelColor=1a1a2e" />
 </td>
 </tr>
 </table>
@@ -161,6 +158,7 @@ currently_learning:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer" width="100%" />
 
 </div>
+
 
 
 
